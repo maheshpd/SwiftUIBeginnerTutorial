@@ -10,6 +10,7 @@
 		B54C65C9258DDE7900EDAA38 /* Containers.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54C65C8258DDE7900EDAA38 /* Containers.swift */; };
 		B54C65CC258DE66F00EDAA38 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54C65CB258DE66F00EDAA38 /* TextView.swift */; };
 		B54C65CF258DE78B00EDAA38 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54C65CE258DE78B00EDAA38 /* ImageView.swift */; };
+		B54C65D2258DE8EF00EDAA38 /* ShapesDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54C65D1258DE8EF00EDAA38 /* ShapesDemo.swift */; };
 		B59C67B6258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67B5258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift */; };
 		B59C67B8258D107B008D6097 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67B7258D107B008D6097 /* ContentView.swift */; };
 		B59C67BA258D1080008D6097 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B59C67B9258D1080008D6097 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 		B54C65C8258DDE7900EDAA38 /* Containers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Containers.swift; sourceTree = "<group>"; };
 		B54C65CB258DE66F00EDAA38 /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 		B54C65CE258DE78B00EDAA38 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
+		B54C65D1258DE8EF00EDAA38 /* ShapesDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesDemo.swift; sourceTree = "<group>"; };
 		B59C67B2258D107B008D6097 /* SwiftUIBeginnerTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBeginnerTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B59C67B5258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBeginnerTutorialApp.swift; sourceTree = "<group>"; };
 		B59C67B7258D107B008D6097 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				B54C65C8258DDE7900EDAA38 /* Containers.swift */,
 				B54C65CB258DE66F00EDAA38 /* TextView.swift */,
 				B54C65CE258DE78B00EDAA38 /* ImageView.swift */,
+				B54C65D1258DE8EF00EDAA38 /* ShapesDemo.swift */,
 			);
 			path = SwiftUIBeginnerTutorial;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				B54C65CF258DE78B00EDAA38 /* ImageView.swift in Sources */,
 				B59C67B8258D107B008D6097 /* ContentView.swift in Sources */,
 				B54C65C9258DDE7900EDAA38 /* Containers.swift in Sources */,
+				B54C65D2258DE8EF00EDAA38 /* ShapesDemo.swift in Sources */,
 				B59C67C6258D1139008D6097 /* HStackAndVstack.swift in Sources */,
 				B59C67B6258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift in Sources */,
 				B54C65CC258DE66F00EDAA38 /* TextView.swift in Sources */,
