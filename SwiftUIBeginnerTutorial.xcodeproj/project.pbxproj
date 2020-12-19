@@ -11,6 +11,7 @@
 		B59C67B8258D107B008D6097 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67B7258D107B008D6097 /* ContentView.swift */; };
 		B59C67BA258D1080008D6097 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B59C67B9258D1080008D6097 /* Assets.xcassets */; };
 		B59C67BD258D1080008D6097 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B59C67BC258D1080008D6097 /* Preview Assets.xcassets */; };
+		B59C67C6258D1139008D6097 /* HStackAndVstack.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67C5258D1139008D6097 /* HStackAndVstack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		B59C67B9258D1080008D6097 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B59C67BC258D1080008D6097 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B59C67BE258D1080008D6097 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B59C67C5258D1139008D6097 /* HStackAndVstack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStackAndVstack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				B59C67B9258D1080008D6097 /* Assets.xcassets */,
 				B59C67BE258D1080008D6097 /* Info.plist */,
 				B59C67BB258D1080008D6097 /* Preview Content */,
+				B59C67C5258D1139008D6097 /* HStackAndVstack.swift */,
 			);
 			path = SwiftUIBeginnerTutorial;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B59C67B8258D107B008D6097 /* ContentView.swift in Sources */,
+				B59C67C6258D1139008D6097 /* HStackAndVstack.swift in Sources */,
 				B59C67B6258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
