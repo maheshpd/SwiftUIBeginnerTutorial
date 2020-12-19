@@ -12,6 +12,7 @@
 		B54C65CF258DE78B00EDAA38 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54C65CE258DE78B00EDAA38 /* ImageView.swift */; };
 		B54C65D2258DE8EF00EDAA38 /* ShapesDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54C65D1258DE8EF00EDAA38 /* ShapesDemo.swift */; };
 		B54C65D5258DEE4100EDAA38 /* ColorDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54C65D4258DEE4100EDAA38 /* ColorDemo.swift */; };
+		B54C65D8258E249D00EDAA38 /* ButtonTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54C65D7258E249D00EDAA38 /* ButtonTemplate.swift */; };
 		B59C67B6258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67B5258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift */; };
 		B59C67B8258D107B008D6097 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67B7258D107B008D6097 /* ContentView.swift */; };
 		B59C67BA258D1080008D6097 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B59C67B9258D1080008D6097 /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 		B54C65CE258DE78B00EDAA38 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 		B54C65D1258DE8EF00EDAA38 /* ShapesDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesDemo.swift; sourceTree = "<group>"; };
 		B54C65D4258DEE4100EDAA38 /* ColorDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDemo.swift; sourceTree = "<group>"; };
+		B54C65D7258E249D00EDAA38 /* ButtonTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonTemplate.swift; sourceTree = "<group>"; };
 		B59C67B2258D107B008D6097 /* SwiftUIBeginnerTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBeginnerTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B59C67B5258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBeginnerTutorialApp.swift; sourceTree = "<group>"; };
 		B59C67B7258D107B008D6097 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				B54C65CE258DE78B00EDAA38 /* ImageView.swift */,
 				B54C65D1258DE8EF00EDAA38 /* ShapesDemo.swift */,
 				B54C65D4258DEE4100EDAA38 /* ColorDemo.swift */,
+				B54C65D7258E249D00EDAA38 /* ButtonTemplate.swift */,
 			);
 			path = SwiftUIBeginnerTutorial;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				B59C67C6258D1139008D6097 /* HStackAndVstack.swift in Sources */,
 				B59C67B6258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift in Sources */,
 				B54C65D5258DEE4100EDAA38 /* ColorDemo.swift in Sources */,
+				B54C65D8258E249D00EDAA38 /* ButtonTemplate.swift in Sources */,
 				B54C65CC258DE66F00EDAA38 /* TextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

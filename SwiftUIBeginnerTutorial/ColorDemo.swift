@@ -26,6 +26,7 @@ struct ColorDemo: View {
                             .resizable()
                             .aspectRatio(contentMode: .fit)
                             .frame(width: 100, height: 100), alignment: .topTrailing)
+                
                 .overlay(Image("me")
                             .resizable()
                             .aspectRatio(contentMode: .fit)

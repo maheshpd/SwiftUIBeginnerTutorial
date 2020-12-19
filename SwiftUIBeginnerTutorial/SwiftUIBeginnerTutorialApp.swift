@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIBeginnerTutorialApp: App {
     var body: some Scene {
         WindowGroup {
-            Containers()
+            ButtonTemplate()
         }
     }
 }

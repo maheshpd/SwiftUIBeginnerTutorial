@@ -11,19 +11,25 @@ struct ImageView: View {
     var body: some View {
         VStack{
             
-        Image(systemName: "sun.dust.fill")
-            .font(.largeTitle)
-            .foregroundColor(.white)
-            .padding(20)
-            .background(Color.blue)
-        
-        Image("me")
-            .resizable()
-            .aspectRatio(contentMode: .fit)
-            .frame(width: 100, height: 100)
-            .overlay(Text("Hello World")
-                        .background(Color.white)
-                        .opacity(0.5))
+//        Image(systemName: "sun.dust.fill")
+//            .font(.largeTitle)
+//            .foregroundColor(.blue)
+//            .padding(100)
+//            .background(LinearGradient(gradient: Gradient(colors: [Color.yellow, Color.orange]), startPoint: .top, endPoint: .bottom))
+//            .cornerRadius(30)
+//
+//        Image("me")
+//            .resizable()
+//            .aspectRatio(contentMode: .fit)
+//            .frame(width: 100, height: 100)
+//            .overlay(Text("Hello World")
+//                        .background(Color.white)
+//                        .opacity(0.5))
+            
+            Image("me")
+                .resizable()
+//                .aspectRatio(contentMode: .fit)
+                .scaledToFit()
         }
     }
 }
