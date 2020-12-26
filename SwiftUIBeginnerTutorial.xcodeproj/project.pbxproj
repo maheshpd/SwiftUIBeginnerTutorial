@@ -19,6 +19,7 @@
 		B55E83D5259774CF00259FDB /* SliderTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55E83D4259774CF00259FDB /* SliderTemplate.swift */; };
 		B55E83D825977D5600259FDB /* ShapesTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55E83D725977D5600259FDB /* ShapesTemplate.swift */; };
 		B55E83E025978B0800259FDB /* StepperTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55E83DF25978B0800259FDB /* StepperTemplate.swift */; };
+		B55E83E32597910C00259FDB /* TabViewTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55E83E22597910C00259FDB /* TabViewTemplate.swift */; };
 		B59C67B6258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67B5258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift */; };
 		B59C67B8258D107B008D6097 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67B7258D107B008D6097 /* ContentView.swift */; };
 		B59C67BA258D1080008D6097 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B59C67B9258D1080008D6097 /* Assets.xcassets */; };
@@ -39,6 +40,7 @@
 		B55E83D4259774CF00259FDB /* SliderTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderTemplate.swift; sourceTree = "<group>"; };
 		B55E83D725977D5600259FDB /* ShapesTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesTemplate.swift; sourceTree = "<group>"; };
 		B55E83DF25978B0800259FDB /* StepperTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperTemplate.swift; sourceTree = "<group>"; };
+		B55E83E22597910C00259FDB /* TabViewTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewTemplate.swift; sourceTree = "<group>"; };
 		B59C67B2258D107B008D6097 /* SwiftUIBeginnerTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBeginnerTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B59C67B5258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBeginnerTutorialApp.swift; sourceTree = "<group>"; };
 		B59C67B7258D107B008D6097 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 				B55E83D4259774CF00259FDB /* SliderTemplate.swift */,
 				B55E83D725977D5600259FDB /* ShapesTemplate.swift */,
 				B55E83DF25978B0800259FDB /* StepperTemplate.swift */,
+				B55E83E22597910C00259FDB /* TabViewTemplate.swift */,
 			);
 			path = SwiftUIBeginnerTutorial;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				B54C65D8258E249D00EDAA38 /* ButtonTemplate.swift in Sources */,
 				B512E162259340590093F8E0 /* TextFieldSecureFieldTemplate.swift in Sources */,
 				B54C65CC258DE66F00EDAA38 /* TextView.swift in Sources */,
+				B55E83E32597910C00259FDB /* TabViewTemplate.swift in Sources */,
 				B51E231A258F33870062B81D /* DatePickerTemplate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
