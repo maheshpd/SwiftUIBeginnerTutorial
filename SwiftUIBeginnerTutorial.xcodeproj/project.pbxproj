@@ -20,11 +20,14 @@
 		B55E83D825977D5600259FDB /* ShapesTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55E83D725977D5600259FDB /* ShapesTemplate.swift */; };
 		B55E83E025978B0800259FDB /* StepperTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55E83DF25978B0800259FDB /* StepperTemplate.swift */; };
 		B55E83E32597910C00259FDB /* TabViewTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55E83E22597910C00259FDB /* TabViewTemplate.swift */; };
+		B55E83E625979D2800259FDB /* RestaurantUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55E83E525979D2800259FDB /* RestaurantUI.swift */; };
+		B59B1791259DB2100025D700 /* UnderlineTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B1790259DB2100025D700 /* UnderlineTextFieldView.swift */; };
 		B59C67B6258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67B5258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift */; };
 		B59C67B8258D107B008D6097 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67B7258D107B008D6097 /* ContentView.swift */; };
 		B59C67BA258D1080008D6097 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B59C67B9258D1080008D6097 /* Assets.xcassets */; };
 		B59C67BD258D1080008D6097 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B59C67BC258D1080008D6097 /* Preview Assets.xcassets */; };
 		B59C67C6258D1139008D6097 /* HStackAndVstack.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67C5258D1139008D6097 /* HStackAndVstack.swift */; };
+		B5D57612259880230007D6C0 /* FloatingActionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D57611259880230007D6C0 /* FloatingActionButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +44,8 @@
 		B55E83D725977D5600259FDB /* ShapesTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesTemplate.swift; sourceTree = "<group>"; };
 		B55E83DF25978B0800259FDB /* StepperTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperTemplate.swift; sourceTree = "<group>"; };
 		B55E83E22597910C00259FDB /* TabViewTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewTemplate.swift; sourceTree = "<group>"; };
+		B55E83E525979D2800259FDB /* RestaurantUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantUI.swift; sourceTree = "<group>"; };
+		B59B1790259DB2100025D700 /* UnderlineTextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnderlineTextFieldView.swift; sourceTree = "<group>"; };
 		B59C67B2258D107B008D6097 /* SwiftUIBeginnerTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBeginnerTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B59C67B5258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBeginnerTutorialApp.swift; sourceTree = "<group>"; };
 		B59C67B7258D107B008D6097 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,6 +53,7 @@
 		B59C67BC258D1080008D6097 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B59C67BE258D1080008D6097 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B59C67C5258D1139008D6097 /* HStackAndVstack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStackAndVstack.swift; sourceTree = "<group>"; };
+		B5D57611259880230007D6C0 /* FloatingActionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingActionButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +105,9 @@
 				B55E83D725977D5600259FDB /* ShapesTemplate.swift */,
 				B55E83DF25978B0800259FDB /* StepperTemplate.swift */,
 				B55E83E22597910C00259FDB /* TabViewTemplate.swift */,
+				B55E83E525979D2800259FDB /* RestaurantUI.swift */,
+				B5D57611259880230007D6C0 /* FloatingActionButton.swift */,
+				B59B1790259DB2100025D700 /* UnderlineTextFieldView.swift */,
 			);
 			path = SwiftUIBeginnerTutorial;
 			sourceTree = "<group>";
@@ -180,12 +189,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B59B1791259DB2100025D700 /* UnderlineTextFieldView.swift in Sources */,
 				B54C65CF258DE78B00EDAA38 /* ImageView.swift in Sources */,
 				B59C67B8258D107B008D6097 /* ContentView.swift in Sources */,
 				B54C65C9258DDE7900EDAA38 /* Containers.swift in Sources */,
 				B54C65D2258DE8EF00EDAA38 /* ShapesDemo.swift in Sources */,
 				B59C67C6258D1139008D6097 /* HStackAndVstack.swift in Sources */,
+				B55E83E625979D2800259FDB /* RestaurantUI.swift in Sources */,
 				B512E15F2593155E0093F8E0 /* ScrollViewDemo.swift in Sources */,
+				B5D57612259880230007D6C0 /* FloatingActionButton.swift in Sources */,
 				B59C67B6258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift in Sources */,
 				B55E83D825977D5600259FDB /* ShapesTemplate.swift in Sources */,
 				B55E83D5259774CF00259FDB /* SliderTemplate.swift in Sources */,
