@@ -26,6 +26,7 @@
 		B59B1797259DD8E30025D700 /* PasswordToggleField.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B1796259DD8E30025D700 /* PasswordToggleField.swift */; };
 		B59B179A259DDBDF0025D700 /* ImageInDetailTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B1799259DDBDF0025D700 /* ImageInDetailTemplate.swift */; };
 		B59B179D259DE0D20025D700 /* StateInSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B179C259DE0D20025D700 /* StateInSwiftUI.swift */; };
+		B59B17A0259DE8140025D700 /* ListSearchState.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B179F259DE8140025D700 /* ListSearchState.swift */; };
 		B59C67B6258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67B5258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift */; };
 		B59C67B8258D107B008D6097 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67B7258D107B008D6097 /* ContentView.swift */; };
 		B59C67BA258D1080008D6097 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B59C67B9258D1080008D6097 /* Assets.xcassets */; };
@@ -54,6 +55,7 @@
 		B59B1796259DD8E30025D700 /* PasswordToggleField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordToggleField.swift; sourceTree = "<group>"; };
 		B59B1799259DDBDF0025D700 /* ImageInDetailTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageInDetailTemplate.swift; sourceTree = "<group>"; };
 		B59B179C259DE0D20025D700 /* StateInSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateInSwiftUI.swift; sourceTree = "<group>"; };
+		B59B179F259DE8140025D700 /* ListSearchState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSearchState.swift; sourceTree = "<group>"; };
 		B59C67B2258D107B008D6097 /* SwiftUIBeginnerTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBeginnerTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B59C67B5258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBeginnerTutorialApp.swift; sourceTree = "<group>"; };
 		B59C67B7258D107B008D6097 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				B59B1796259DD8E30025D700 /* PasswordToggleField.swift */,
 				B59B1799259DDBDF0025D700 /* ImageInDetailTemplate.swift */,
 				B59B179C259DE0D20025D700 /* StateInSwiftUI.swift */,
+				B59B179F259DE8140025D700 /* ListSearchState.swift */,
 			);
 			path = SwiftUIBeginnerTutorial;
 			sourceTree = "<group>";
@@ -220,6 +223,7 @@
 				B54C65D8258E249D00EDAA38 /* ButtonTemplate.swift in Sources */,
 				B512E162259340590093F8E0 /* TextFieldSecureFieldTemplate.swift in Sources */,
 				B54C65CC258DE66F00EDAA38 /* TextView.swift in Sources */,
+				B59B17A0259DE8140025D700 /* ListSearchState.swift in Sources */,
 				B55E83E32597910C00259FDB /* TabViewTemplate.swift in Sources */,
 				B59B179A259DDBDF0025D700 /* ImageInDetailTemplate.swift in Sources */,
 				B51E231A258F33870062B81D /* DatePickerTemplate.swift in Sources */,
