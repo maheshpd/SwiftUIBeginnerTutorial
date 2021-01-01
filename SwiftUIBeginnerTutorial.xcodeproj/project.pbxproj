@@ -27,6 +27,7 @@
 		B59B179A259DDBDF0025D700 /* ImageInDetailTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B1799259DDBDF0025D700 /* ImageInDetailTemplate.swift */; };
 		B59B179D259DE0D20025D700 /* StateInSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B179C259DE0D20025D700 /* StateInSwiftUI.swift */; };
 		B59B17A0259DE8140025D700 /* ListSearchState.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B179F259DE8140025D700 /* ListSearchState.swift */; };
+		B59B17A3259E110E0025D700 /* BindingInSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B17A2259E110E0025D700 /* BindingInSwiftUI.swift */; };
 		B59C67B6258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67B5258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift */; };
 		B59C67B8258D107B008D6097 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67B7258D107B008D6097 /* ContentView.swift */; };
 		B59C67BA258D1080008D6097 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B59C67B9258D1080008D6097 /* Assets.xcassets */; };
@@ -56,6 +57,7 @@
 		B59B1799259DDBDF0025D700 /* ImageInDetailTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageInDetailTemplate.swift; sourceTree = "<group>"; };
 		B59B179C259DE0D20025D700 /* StateInSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateInSwiftUI.swift; sourceTree = "<group>"; };
 		B59B179F259DE8140025D700 /* ListSearchState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSearchState.swift; sourceTree = "<group>"; };
+		B59B17A2259E110E0025D700 /* BindingInSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingInSwiftUI.swift; sourceTree = "<group>"; };
 		B59C67B2258D107B008D6097 /* SwiftUIBeginnerTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBeginnerTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B59C67B5258D107B008D6097 /* SwiftUIBeginnerTutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBeginnerTutorialApp.swift; sourceTree = "<group>"; };
 		B59C67B7258D107B008D6097 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 				B59B1799259DDBDF0025D700 /* ImageInDetailTemplate.swift */,
 				B59B179C259DE0D20025D700 /* StateInSwiftUI.swift */,
 				B59B179F259DE8140025D700 /* ListSearchState.swift */,
+				B59B17A2259E110E0025D700 /* BindingInSwiftUI.swift */,
 			);
 			path = SwiftUIBeginnerTutorial;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				B54C65CF258DE78B00EDAA38 /* ImageView.swift in Sources */,
 				B59C67B8258D107B008D6097 /* ContentView.swift in Sources */,
 				B54C65C9258DDE7900EDAA38 /* Containers.swift in Sources */,
+				B59B17A3259E110E0025D700 /* BindingInSwiftUI.swift in Sources */,
 				B54C65D2258DE8EF00EDAA38 /* ShapesDemo.swift in Sources */,
 				B59C67C6258D1139008D6097 /* HStackAndVstack.swift in Sources */,
 				B55E83E625979D2800259FDB /* RestaurantUI.swift in Sources */,
