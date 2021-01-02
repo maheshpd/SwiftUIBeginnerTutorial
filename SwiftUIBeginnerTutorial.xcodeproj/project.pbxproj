@@ -35,6 +35,7 @@
 		B59C67BD258D1080008D6097 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B59C67BC258D1080008D6097 /* Preview Assets.xcassets */; };
 		B59C67C6258D1139008D6097 /* HStackAndVstack.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67C5258D1139008D6097 /* HStackAndVstack.swift */; };
 		B5D57612259880230007D6C0 /* FloatingActionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D57611259880230007D6C0 /* FloatingActionButton.swift */; };
+		B5E4A74125A07E1D001EF970 /* TapGestureTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E4A74025A07E1D001EF970 /* TapGestureTemplate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +69,7 @@
 		B59C67BE258D1080008D6097 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B59C67C5258D1139008D6097 /* HStackAndVstack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStackAndVstack.swift; sourceTree = "<group>"; };
 		B5D57611259880230007D6C0 /* FloatingActionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingActionButton.swift; sourceTree = "<group>"; };
+		B5E4A74025A07E1D001EF970 /* TapGestureTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureTemplate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 				B59B179F259DE8140025D700 /* ListSearchState.swift */,
 				B59B17A2259E110E0025D700 /* BindingInSwiftUI.swift */,
 				B567F538259F07D3006DD822 /* MoveKeyboardUp.swift */,
+				B5E4A74025A07E1D001EF970 /* TapGestureTemplate.swift */,
 			);
 			path = SwiftUIBeginnerTutorial;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 				B59B1797259DD8E30025D700 /* PasswordToggleField.swift in Sources */,
 				B59B1791259DB2100025D700 /* UnderlineTextFieldView.swift in Sources */,
 				B54C65CF258DE78B00EDAA38 /* ImageView.swift in Sources */,
+				B5E4A74125A07E1D001EF970 /* TapGestureTemplate.swift in Sources */,
 				B59C67B8258D107B008D6097 /* ContentView.swift in Sources */,
 				B54C65C9258DDE7900EDAA38 /* Containers.swift in Sources */,
 				B59B17A3259E110E0025D700 /* BindingInSwiftUI.swift in Sources */,
