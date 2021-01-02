@@ -36,6 +36,7 @@
 		B59C67C6258D1139008D6097 /* HStackAndVstack.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59C67C5258D1139008D6097 /* HStackAndVstack.swift */; };
 		B5D57612259880230007D6C0 /* FloatingActionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D57611259880230007D6C0 /* FloatingActionButton.swift */; };
 		B5E4A74125A07E1D001EF970 /* TapGestureTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E4A74025A07E1D001EF970 /* TapGestureTemplate.swift */; };
+		B5E4A74425A08022001EF970 /* LongPressGestureTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E4A74325A08022001EF970 /* LongPressGestureTemplate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -70,6 +71,7 @@
 		B59C67C5258D1139008D6097 /* HStackAndVstack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStackAndVstack.swift; sourceTree = "<group>"; };
 		B5D57611259880230007D6C0 /* FloatingActionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingActionButton.swift; sourceTree = "<group>"; };
 		B5E4A74025A07E1D001EF970 /* TapGestureTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureTemplate.swift; sourceTree = "<group>"; };
+		B5E4A74325A08022001EF970 /* LongPressGestureTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureTemplate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 				B59B17A2259E110E0025D700 /* BindingInSwiftUI.swift */,
 				B567F538259F07D3006DD822 /* MoveKeyboardUp.swift */,
 				B5E4A74025A07E1D001EF970 /* TapGestureTemplate.swift */,
+				B5E4A74325A08022001EF970 /* LongPressGestureTemplate.swift */,
 			);
 			path = SwiftUIBeginnerTutorial;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 				B55E83D825977D5600259FDB /* ShapesTemplate.swift in Sources */,
 				B55E83D5259774CF00259FDB /* SliderTemplate.swift in Sources */,
 				B55E83E025978B0800259FDB /* StepperTemplate.swift in Sources */,
+				B5E4A74425A08022001EF970 /* LongPressGestureTemplate.swift in Sources */,
 				B54C65D5258DEE4100EDAA38 /* ColorDemo.swift in Sources */,
 				B54C65D8258E249D00EDAA38 /* ButtonTemplate.swift in Sources */,
 				B512E162259340590093F8E0 /* TextFieldSecureFieldTemplate.swift in Sources */,
