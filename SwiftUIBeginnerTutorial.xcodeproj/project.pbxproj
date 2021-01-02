@@ -37,6 +37,7 @@
 		B5D57612259880230007D6C0 /* FloatingActionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D57611259880230007D6C0 /* FloatingActionButton.swift */; };
 		B5E4A74125A07E1D001EF970 /* TapGestureTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E4A74025A07E1D001EF970 /* TapGestureTemplate.swift */; };
 		B5E4A74425A08022001EF970 /* LongPressGestureTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E4A74325A08022001EF970 /* LongPressGestureTemplate.swift */; };
+		B5E4A74725A084CF001EF970 /* DragGestureTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E4A74625A084CF001EF970 /* DragGestureTemplate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +73,7 @@
 		B5D57611259880230007D6C0 /* FloatingActionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingActionButton.swift; sourceTree = "<group>"; };
 		B5E4A74025A07E1D001EF970 /* TapGestureTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureTemplate.swift; sourceTree = "<group>"; };
 		B5E4A74325A08022001EF970 /* LongPressGestureTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureTemplate.swift; sourceTree = "<group>"; };
+		B5E4A74625A084CF001EF970 /* DragGestureTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureTemplate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 				B567F538259F07D3006DD822 /* MoveKeyboardUp.swift */,
 				B5E4A74025A07E1D001EF970 /* TapGestureTemplate.swift */,
 				B5E4A74325A08022001EF970 /* LongPressGestureTemplate.swift */,
+				B5E4A74625A084CF001EF970 /* DragGestureTemplate.swift */,
 			);
 			path = SwiftUIBeginnerTutorial;
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 				B59B17A0259DE8140025D700 /* ListSearchState.swift in Sources */,
 				B55E83E32597910C00259FDB /* TabViewTemplate.swift in Sources */,
 				B567F539259F07D4006DD822 /* MoveKeyboardUp.swift in Sources */,
+				B5E4A74725A084CF001EF970 /* DragGestureTemplate.swift in Sources */,
 				B59B179A259DDBDF0025D700 /* ImageInDetailTemplate.swift in Sources */,
 				B51E231A258F33870062B81D /* DatePickerTemplate.swift in Sources */,
 				B59B1794259DD38F0025D700 /* ClearableTextField.swift in Sources */,
