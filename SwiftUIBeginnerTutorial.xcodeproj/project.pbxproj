@@ -14,6 +14,7 @@
 		B5233C87263405B60043AA2E /* PinchGestureTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5233C86263405B60043AA2E /* PinchGestureTemplate.swift */; };
 		B5233C8A26340E200043AA2E /* RotationGestureTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5233C8926340E200043AA2E /* RotationGestureTemplate.swift */; };
 		B5233C8D26343DA90043AA2E /* SimultaneousGestureTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5233C8C26343DA90043AA2E /* SimultaneousGestureTemplate.swift */; };
+		B5233C902634436D0043AA2E /* SequenceGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5233C8F2634436D0043AA2E /* SequenceGesture.swift */; };
 		B538411026308B2A0008D03E /* BottomDrawerTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B538410F26308B2A0008D03E /* BottomDrawerTemplate.swift */; };
 		B54C65C9258DDE7900EDAA38 /* Containers.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54C65C8258DDE7900EDAA38 /* Containers.swift */; };
 		B54C65CC258DE66F00EDAA38 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54C65CB258DE66F00EDAA38 /* TextView.swift */; };
@@ -53,6 +54,7 @@
 		B5233C86263405B60043AA2E /* PinchGestureTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinchGestureTemplate.swift; sourceTree = "<group>"; };
 		B5233C8926340E200043AA2E /* RotationGestureTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureTemplate.swift; sourceTree = "<group>"; };
 		B5233C8C26343DA90043AA2E /* SimultaneousGestureTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimultaneousGestureTemplate.swift; sourceTree = "<group>"; };
+		B5233C8F2634436D0043AA2E /* SequenceGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SequenceGesture.swift; sourceTree = "<group>"; };
 		B538410F26308B2A0008D03E /* BottomDrawerTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomDrawerTemplate.swift; sourceTree = "<group>"; };
 		B54C65C8258DDE7900EDAA38 /* Containers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Containers.swift; sourceTree = "<group>"; };
 		B54C65CB258DE66F00EDAA38 /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
@@ -153,6 +155,7 @@
 				B5233C86263405B60043AA2E /* PinchGestureTemplate.swift */,
 				B5233C8926340E200043AA2E /* RotationGestureTemplate.swift */,
 				B5233C8C26343DA90043AA2E /* SimultaneousGestureTemplate.swift */,
+				B5233C8F2634436D0043AA2E /* SequenceGesture.swift */,
 			);
 			path = SwiftUIBeginnerTutorial;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 				B5233C87263405B60043AA2E /* PinchGestureTemplate.swift in Sources */,
 				B54C65CF258DE78B00EDAA38 /* ImageView.swift in Sources */,
 				B5E4A74125A07E1D001EF970 /* TapGestureTemplate.swift in Sources */,
+				B5233C902634436D0043AA2E /* SequenceGesture.swift in Sources */,
 				B59C67B8258D107B008D6097 /* ContentView.swift in Sources */,
 				B538411026308B2A0008D03E /* BottomDrawerTemplate.swift in Sources */,
 				B54C65C9258DDE7900EDAA38 /* Containers.swift in Sources */,
