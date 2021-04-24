@@ -10,6 +10,7 @@
 		B512E15F2593155E0093F8E0 /* ScrollViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B512E15E2593155E0093F8E0 /* ScrollViewDemo.swift */; };
 		B512E162259340590093F8E0 /* TextFieldSecureFieldTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B512E161259340590093F8E0 /* TextFieldSecureFieldTemplate.swift */; };
 		B51E231A258F33870062B81D /* DatePickerTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B51E2319258F33870062B81D /* DatePickerTemplate.swift */; };
+		B5233C84263400C20043AA2E /* PulseAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5233C83263400C20043AA2E /* PulseAnimation.swift */; };
 		B538411026308B2A0008D03E /* BottomDrawerTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B538410F26308B2A0008D03E /* BottomDrawerTemplate.swift */; };
 		B54C65C9258DDE7900EDAA38 /* Containers.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54C65C8258DDE7900EDAA38 /* Containers.swift */; };
 		B54C65CC258DE66F00EDAA38 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54C65CB258DE66F00EDAA38 /* TextView.swift */; };
@@ -45,6 +46,7 @@
 		B512E15E2593155E0093F8E0 /* ScrollViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewDemo.swift; sourceTree = "<group>"; };
 		B512E161259340590093F8E0 /* TextFieldSecureFieldTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldSecureFieldTemplate.swift; sourceTree = "<group>"; };
 		B51E2319258F33870062B81D /* DatePickerTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerTemplate.swift; sourceTree = "<group>"; };
+		B5233C83263400C20043AA2E /* PulseAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PulseAnimation.swift; sourceTree = "<group>"; };
 		B538410F26308B2A0008D03E /* BottomDrawerTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomDrawerTemplate.swift; sourceTree = "<group>"; };
 		B54C65C8258DDE7900EDAA38 /* Containers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Containers.swift; sourceTree = "<group>"; };
 		B54C65CB258DE66F00EDAA38 /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
@@ -141,6 +143,7 @@
 				B5E4A74325A08022001EF970 /* LongPressGestureTemplate.swift */,
 				B5E4A74625A084CF001EF970 /* DragGestureTemplate.swift */,
 				B538410F26308B2A0008D03E /* BottomDrawerTemplate.swift */,
+				B5233C83263400C20043AA2E /* PulseAnimation.swift */,
 			);
 			path = SwiftUIBeginnerTutorial;
 			sourceTree = "<group>";
@@ -246,6 +249,7 @@
 				B512E162259340590093F8E0 /* TextFieldSecureFieldTemplate.swift in Sources */,
 				B54C65CC258DE66F00EDAA38 /* TextView.swift in Sources */,
 				B59B17A0259DE8140025D700 /* ListSearchState.swift in Sources */,
+				B5233C84263400C20043AA2E /* PulseAnimation.swift in Sources */,
 				B55E83E32597910C00259FDB /* TabViewTemplate.swift in Sources */,
 				B567F539259F07D4006DD822 /* MoveKeyboardUp.swift in Sources */,
 				B5E4A74725A084CF001EF970 /* DragGestureTemplate.swift in Sources */,
