@@ -10,7 +10,6 @@ import SwiftUI
 struct RotationGestureTemplate: View {
     
     @State private var rotation: Angle = .zero
-    
     var body: some View {
         Image("me")
             .resizable()
