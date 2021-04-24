@@ -9,27 +9,28 @@ import SwiftUI
 
 struct DragGestureTemplate: View {
     
-//    @State private var offset = CGSize.zero
-    @GestureState private var offset = CGSize.zero
+    @State private var offset = CGSize.zero
+//    @GestureState private var offset = CGSize.zero
 //    @State private var lastDragPosition: DragGesture.Value?
 //    @State private var shadowColor = Color.gray
     
     @GestureState private var animation = Animation.linear
     
     var body: some View {
-//        Image("me")
-//            .resizable()
-//            .frame(width: 100, height: 100)
-//            .offset(offset)
-//            .scaledToFit()
-//            .shadow(radius: 20)
-//            .gesture(DragGesture(minimumDistance: 10)
-//                        .onChanged({ (value) in
-//                self.offset = value.translation
-//                        }).onEnded({ _ in
-//                            self.offset = CGSize.zero
-//                        }))
-//            .animation(.easeInOut(duration: 1))
+        
+        Image("me")
+            .resizable()
+            .frame(width: 100, height: 100)
+            .offset(offset)
+            .scaledToFit()
+            .shadow(radius: 20)
+            .gesture(DragGesture(minimumDistance: 10)
+                        .onChanged({ (value) in
+                self.offset = value.translation
+                        }).onEnded({ _ in
+                            self.offset = CGSize.zero
+                        }))
+            .animation(.easeInOut(duration: 1))
         
 //        Image("me")
 //            .resizable()
@@ -56,7 +57,7 @@ struct DragGestureTemplate: View {
 //            }))
 //            .animation(.spring())
         
-        
+        /*
         Image("me")
             .resizable()
             .frame(width: 100, height: 100)
@@ -68,6 +69,7 @@ struct DragGestureTemplate: View {
             }).updating(self.$animation, body: { (value, state, translation) in
                 state = Animation.easeInOut(duration: 5)
             }))
+ */
             
     }
 }
