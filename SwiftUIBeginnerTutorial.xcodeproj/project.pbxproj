@@ -28,6 +28,7 @@
 		B55E83E32597910C00259FDB /* TabViewTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55E83E22597910C00259FDB /* TabViewTemplate.swift */; };
 		B55E83E625979D2800259FDB /* RestaurantUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55E83E525979D2800259FDB /* RestaurantUI.swift */; };
 		B567F539259F07D4006DD822 /* MoveKeyboardUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B567F538259F07D3006DD822 /* MoveKeyboardUp.swift */; };
+		B579D2B826385EC8006720A1 /* AngularGradientAndAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = B579D2B726385EC8006720A1 /* AngularGradientAndAnimation.swift */; };
 		B59B1791259DB2100025D700 /* UnderlineTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B1790259DB2100025D700 /* UnderlineTextFieldView.swift */; };
 		B59B1794259DD38F0025D700 /* ClearableTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B1793259DD38F0025D700 /* ClearableTextField.swift */; };
 		B59B1797259DD8E30025D700 /* PasswordToggleField.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B1796259DD8E30025D700 /* PasswordToggleField.swift */; };
@@ -68,6 +69,7 @@
 		B55E83E22597910C00259FDB /* TabViewTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewTemplate.swift; sourceTree = "<group>"; };
 		B55E83E525979D2800259FDB /* RestaurantUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantUI.swift; sourceTree = "<group>"; };
 		B567F538259F07D3006DD822 /* MoveKeyboardUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveKeyboardUp.swift; sourceTree = "<group>"; };
+		B579D2B726385EC8006720A1 /* AngularGradientAndAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AngularGradientAndAnimation.swift; sourceTree = "<group>"; };
 		B59B1790259DB2100025D700 /* UnderlineTextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnderlineTextFieldView.swift; sourceTree = "<group>"; };
 		B59B1793259DD38F0025D700 /* ClearableTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClearableTextField.swift; sourceTree = "<group>"; };
 		B59B1796259DD8E30025D700 /* PasswordToggleField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordToggleField.swift; sourceTree = "<group>"; };
@@ -156,6 +158,7 @@
 				B5233C8926340E200043AA2E /* RotationGestureTemplate.swift */,
 				B5233C8C26343DA90043AA2E /* SimultaneousGestureTemplate.swift */,
 				B5233C8F2634436D0043AA2E /* SequenceGesture.swift */,
+				B579D2B726385EC8006720A1 /* AngularGradientAndAnimation.swift */,
 			);
 			path = SwiftUIBeginnerTutorial;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				B59B17A0259DE8140025D700 /* ListSearchState.swift in Sources */,
 				B5233C84263400C20043AA2E /* PulseAnimation.swift in Sources */,
 				B55E83E32597910C00259FDB /* TabViewTemplate.swift in Sources */,
+				B579D2B826385EC8006720A1 /* AngularGradientAndAnimation.swift in Sources */,
 				B567F539259F07D4006DD822 /* MoveKeyboardUp.swift in Sources */,
 				B5E4A74725A084CF001EF970 /* DragGestureTemplate.swift in Sources */,
 				B5233C8A26340E200043AA2E /* RotationGestureTemplate.swift in Sources */,
