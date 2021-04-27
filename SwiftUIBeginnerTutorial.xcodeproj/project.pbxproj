@@ -29,6 +29,7 @@
 		B55E83E625979D2800259FDB /* RestaurantUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55E83E525979D2800259FDB /* RestaurantUI.swift */; };
 		B567F539259F07D4006DD822 /* MoveKeyboardUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B567F538259F07D3006DD822 /* MoveKeyboardUp.swift */; };
 		B579D2B826385EC8006720A1 /* AngularGradientAndAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = B579D2B726385EC8006720A1 /* AngularGradientAndAnimation.swift */; };
+		B579D2BB2638674D006720A1 /* AnimationTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B579D2BA2638674D006720A1 /* AnimationTemplate.swift */; };
 		B59B1791259DB2100025D700 /* UnderlineTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B1790259DB2100025D700 /* UnderlineTextFieldView.swift */; };
 		B59B1794259DD38F0025D700 /* ClearableTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B1793259DD38F0025D700 /* ClearableTextField.swift */; };
 		B59B1797259DD8E30025D700 /* PasswordToggleField.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59B1796259DD8E30025D700 /* PasswordToggleField.swift */; };
@@ -70,6 +71,7 @@
 		B55E83E525979D2800259FDB /* RestaurantUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantUI.swift; sourceTree = "<group>"; };
 		B567F538259F07D3006DD822 /* MoveKeyboardUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveKeyboardUp.swift; sourceTree = "<group>"; };
 		B579D2B726385EC8006720A1 /* AngularGradientAndAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AngularGradientAndAnimation.swift; sourceTree = "<group>"; };
+		B579D2BA2638674D006720A1 /* AnimationTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTemplate.swift; sourceTree = "<group>"; };
 		B59B1790259DB2100025D700 /* UnderlineTextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnderlineTextFieldView.swift; sourceTree = "<group>"; };
 		B59B1793259DD38F0025D700 /* ClearableTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClearableTextField.swift; sourceTree = "<group>"; };
 		B59B1796259DD8E30025D700 /* PasswordToggleField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordToggleField.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 		B59C67A9258D107B008D6097 = {
 			isa = PBXGroup;
 			children = (
+				B579D2BA2638674D006720A1 /* AnimationTemplate.swift */,
 				B59C67B4258D107B008D6097 /* SwiftUIBeginnerTutorial */,
 				B59C67B3258D107B008D6097 /* Products */,
 			);
@@ -272,6 +275,7 @@
 				B579D2B826385EC8006720A1 /* AngularGradientAndAnimation.swift in Sources */,
 				B567F539259F07D4006DD822 /* MoveKeyboardUp.swift in Sources */,
 				B5E4A74725A084CF001EF970 /* DragGestureTemplate.swift in Sources */,
+				B579D2BB2638674D006720A1 /* AnimationTemplate.swift in Sources */,
 				B5233C8A26340E200043AA2E /* RotationGestureTemplate.swift in Sources */,
 				B59B179A259DDBDF0025D700 /* ImageInDetailTemplate.swift in Sources */,
 				B51E231A258F33870062B81D /* DatePickerTemplate.swift in Sources */,
